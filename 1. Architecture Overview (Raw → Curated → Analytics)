@@ -1,0 +1,37 @@
+                     ┌─────────────────────────┐
+                     │   Raw Zone (S3 Bucket)   │
+                     │  customers.csv           │
+                     │  orders.csv              │
+                     │  products.csv            │
+                     └───────────┬─────────────┘
+                                 │
+                ┌────────────────┴─────────────────┐
+                │     AWS Glue Crawler             │
+                │  (Auto Schema Detection)         │
+                └────────────────┬─────────────────┘
+                                 │
+                     ┌───────────▼───────────┐
+                     │ Glue Data Catalog      │
+                     │ Database: daxwell_db   │
+                     │ Tables auto-created    │
+                     └───────┬───────────────┘
+                             │
+                 ┌───────────▼────────────┐
+                 │ AWS Glue ETL Job       │
+                 │ (PySpark Transformation)│
+                 └───────────┬────────────┘
+                             │
+                     ┌───────▼────────────────┐
+                     │ Curated Zone (S3)       │
+                     │ BI-ready fact tables    │
+                     └───────┬────────────────┘
+                             │
+        ┌────────────────────▼────────────────────┐
+        │ Amazon Athena (SQL Analytics Layer)      │
+        │ LEFT JOIN, CTAS, aggregations, QA checks │
+        └────────────────────┬────────────────────┘
+                             │
+                     ┌───────▼─────────┐
+                     │   Power BI       │
+                     │   Dashboard      │
+                     └──────────────────┘
