@@ -1,0 +1,301 @@
+product_id,sku,product_name,segment,category,material,color,size,packaging_units,unit_price,is_sustainable
+1,HE-EXA-1,Examination Gloves - nitrile Variant 1,Healthcare,Examination Gloves,nitrile,Black,XL,200,40.41,N
+2,HE-EXA-2,Examination Gloves - latex-free Variant 2,Healthcare,Examination Gloves,latex-free,White,M,50,25.44,N
+3,HE-EXA-3,Examination Gloves - nitrile Variant 3,Healthcare,Examination Gloves,nitrile,White,M,50,47.68,N
+4,HE-EXA-4,Examination Gloves - nitrile Variant 4,Healthcare,Examination Gloves,nitrile,Black,S,500,43.85,N
+5,HE-EXA-5,Examination Gloves - vinyl Variant 5,Healthcare,Examination Gloves,vinyl,Transparent,L,100,14.81,N
+6,HE-EXA-6,Examination Gloves - vinyl Variant 6,Healthcare,Examination Gloves,vinyl,Black,L,50,21.77,N
+7,HE-EXA-7,Examination Gloves - nitrile Variant 7,Healthcare,Examination Gloves,nitrile,White,XL,100,47.86,N
+8,HE-EXA-8,Examination Gloves - latex-free Variant 8,Healthcare,Examination Gloves,latex-free,Blue,L,50,49.14,N
+9,HE-EXA-9,Examination Gloves - nitrile Variant 9,Healthcare,Examination Gloves,nitrile,Green,XL,500,19.76,N
+10,HE-EXA-10,Examination Gloves - vinyl Variant 10,Healthcare,Examination Gloves,vinyl,Green,L,50,39.5,N
+11,HE-EXA-11,Examination Gloves - nitrile Variant 11,Healthcare,Examination Gloves,nitrile,Green,S,50,12.12,N
+12,HE-EXA-12,Examination Gloves - latex-free Variant 12,Healthcare,Examination Gloves,latex-free,Blue,XL,100,40.45,N
+13,HE-EXA-13,Examination Gloves - vinyl Variant 13,Healthcare,Examination Gloves,vinyl,Transparent,S,100,35.85,N
+14,HE-EXA-14,Examination Gloves - nitrile Variant 14,Healthcare,Examination Gloves,nitrile,Transparent,XL,100,32.28,N
+15,HE-EXA-15,Examination Gloves - nitrile Variant 15,Healthcare,Examination Gloves,nitrile,Black,M,100,43.63,N
+16,HE-SUR-1,Surgical Gloves - nitrile Variant 1,Healthcare,Surgical Gloves,nitrile,Transparent,M,50,27.72,N
+17,HE-SUR-2,Surgical Gloves - latex-free Variant 2,Healthcare,Surgical Gloves,latex-free,Black,S,200,17.51,N
+18,HE-SUR-3,Surgical Gloves - nitrile Variant 3,Healthcare,Surgical Gloves,nitrile,Green,XL,500,19.57,N
+19,HE-SUR-4,Surgical Gloves - nitrile Variant 4,Healthcare,Surgical Gloves,nitrile,Green,XL,50,20.33,N
+20,HE-SUR-5,Surgical Gloves - latex-free Variant 5,Healthcare,Surgical Gloves,latex-free,Blue,S,50,32.09,N
+21,HE-SUR-6,Surgical Gloves - nitrile Variant 6,Healthcare,Surgical Gloves,nitrile,Black,L,100,26.56,N
+22,HE-SUR-7,Surgical Gloves - nitrile Variant 7,Healthcare,Surgical Gloves,nitrile,Green,XL,500,13.93,N
+23,HE-SUR-8,Surgical Gloves - nitrile Variant 8,Healthcare,Surgical Gloves,nitrile,Green,XL,200,27.49,N
+24,HE-SUR-9,Surgical Gloves - nitrile Variant 9,Healthcare,Surgical Gloves,nitrile,Transparent,M,50,18.59,N
+25,HE-SUR-10,Surgical Gloves - latex-free Variant 10,Healthcare,Surgical Gloves,latex-free,Black,XL,200,33.4,N
+26,HE-SUR-11,Surgical Gloves - nitrile Variant 11,Healthcare,Surgical Gloves,nitrile,White,S,100,12.93,N
+27,HE-SUR-12,Surgical Gloves - nitrile Variant 12,Healthcare,Surgical Gloves,nitrile,Blue,S,500,33.96,N
+28,HE-SUR-13,Surgical Gloves - nitrile Variant 13,Healthcare,Surgical Gloves,nitrile,Blue,L,100,25.57,N
+29,HE-SUR-14,Surgical Gloves - latex-free Variant 14,Healthcare,Surgical Gloves,latex-free,Blue,M,100,21.8,N
+30,HE-SUR-15,Surgical Gloves - nitrile Variant 15,Healthcare,Surgical Gloves,nitrile,Black,S,50,44.76,N
+31,HE-FAC-1,Face Masks - cloth Variant 1,Healthcare,Face Masks,cloth,Black,S,100,12.13,N
+32,HE-FAC-2,Face Masks - cloth Variant 2,Healthcare,Face Masks,cloth,White,XL,200,37.28,N
+33,HE-FAC-3,Face Masks - 3-ply nonwoven Variant 3,Healthcare,Face Masks,3-ply nonwoven,Transparent,M,50,36.44,N
+34,HE-FAC-4,Face Masks - cloth Variant 4,Healthcare,Face Masks,cloth,Transparent,S,50,43.72,N
+35,HE-FAC-5,Face Masks - 3-ply nonwoven Variant 5,Healthcare,Face Masks,3-ply nonwoven,Blue,S,50,47.99,N
+36,HE-FAC-6,Face Masks - KN95 Variant 6,Healthcare,Face Masks,KN95,Black,XL,500,16.51,N
+37,HE-FAC-7,Face Masks - 3-ply nonwoven Variant 7,Healthcare,Face Masks,3-ply nonwoven,Blue,M,50,47.85,N
+38,HE-FAC-8,Face Masks - cloth Variant 8,Healthcare,Face Masks,cloth,Transparent,L,100,49.39,N
+39,HE-FAC-9,Face Masks - cloth Variant 9,Healthcare,Face Masks,cloth,Green,L,500,31.0,N
+40,HE-FAC-10,Face Masks - 3-ply nonwoven Variant 10,Healthcare,Face Masks,3-ply nonwoven,Black,L,100,20.9,N
+41,HE-FAC-11,Face Masks - KN95 Variant 11,Healthcare,Face Masks,KN95,Blue,S,500,16.84,N
+42,HE-FAC-12,Face Masks - KN95 Variant 12,Healthcare,Face Masks,KN95,Black,XL,50,25.95,N
+43,HE-FAC-13,Face Masks - cloth Variant 13,Healthcare,Face Masks,cloth,Transparent,XL,200,31.85,N
+44,HE-FAC-14,Face Masks - 3-ply nonwoven Variant 14,Healthcare,Face Masks,3-ply nonwoven,White,S,200,22.63,N
+45,HE-FAC-15,Face Masks - 3-ply nonwoven Variant 15,Healthcare,Face Masks,3-ply nonwoven,Green,M,200,16.59,N
+46,HE-BOU-1,Bouffant Caps - nonwoven Variant 1,Healthcare,Bouffant Caps,nonwoven,Transparent,S,500,18.59,N
+47,HE-BOU-2,Bouffant Caps - nonwoven Variant 2,Healthcare,Bouffant Caps,nonwoven,Blue,L,200,23.41,N
+48,HE-BOU-3,Bouffant Caps - nonwoven Variant 3,Healthcare,Bouffant Caps,nonwoven,Green,M,200,11.62,N
+49,HE-BOU-4,Bouffant Caps - nonwoven Variant 4,Healthcare,Bouffant Caps,nonwoven,Blue,M,500,39.28,N
+50,HE-BOU-5,Bouffant Caps - nonwoven Variant 5,Healthcare,Bouffant Caps,nonwoven,Blue,XL,200,20.64,N
+51,HE-BOU-6,Bouffant Caps - nonwoven Variant 6,Healthcare,Bouffant Caps,nonwoven,Black,L,200,40.01,N
+52,HE-BOU-7,Bouffant Caps - nonwoven Variant 7,Healthcare,Bouffant Caps,nonwoven,Black,XL,500,15.79,N
+53,HE-BOU-8,Bouffant Caps - nonwoven Variant 8,Healthcare,Bouffant Caps,nonwoven,Green,M,500,33.01,N
+54,HE-BOU-9,Bouffant Caps - nonwoven Variant 9,Healthcare,Bouffant Caps,nonwoven,Transparent,XL,50,25.46,N
+55,HE-BOU-10,Bouffant Caps - nonwoven Variant 10,Healthcare,Bouffant Caps,nonwoven,Green,XL,200,14.98,N
+56,HE-BOU-11,Bouffant Caps - nonwoven Variant 11,Healthcare,Bouffant Caps,nonwoven,White,L,50,28.17,N
+57,HE-BOU-12,Bouffant Caps - nonwoven Variant 12,Healthcare,Bouffant Caps,nonwoven,Black,S,200,40.78,N
+58,HE-BOU-13,Bouffant Caps - nonwoven Variant 13,Healthcare,Bouffant Caps,nonwoven,White,XL,200,15.68,N
+59,HE-BOU-14,Bouffant Caps - nonwoven Variant 14,Healthcare,Bouffant Caps,nonwoven,Transparent,M,200,13.95,N
+60,HE-BOU-15,Bouffant Caps - nonwoven Variant 15,Healthcare,Bouffant Caps,nonwoven,White,M,50,31.67,N
+61,HE-ISO-1,Isolation Gowns - polypropylene Variant 1,Healthcare,Isolation Gowns,polypropylene,White,M,100,34.14,N
+62,HE-ISO-2,Isolation Gowns - polypropylene Variant 2,Healthcare,Isolation Gowns,polypropylene,Green,M,100,13.66,N
+63,HE-ISO-3,Isolation Gowns - sms fabric Variant 3,Healthcare,Isolation Gowns,sms fabric,Black,L,50,34.42,N
+64,HE-ISO-4,Isolation Gowns - sms fabric Variant 4,Healthcare,Isolation Gowns,sms fabric,Green,M,100,18.54,N
+65,HE-ISO-5,Isolation Gowns - sms fabric Variant 5,Healthcare,Isolation Gowns,sms fabric,Green,S,200,26.33,N
+66,HE-ISO-6,Isolation Gowns - sms fabric Variant 6,Healthcare,Isolation Gowns,sms fabric,White,S,200,20.82,N
+67,HE-ISO-7,Isolation Gowns - sms fabric Variant 7,Healthcare,Isolation Gowns,sms fabric,Black,L,100,40.02,N
+68,HE-ISO-8,Isolation Gowns - polypropylene Variant 8,Healthcare,Isolation Gowns,polypropylene,White,S,200,46.35,N
+69,HE-ISO-9,Isolation Gowns - sms fabric Variant 9,Healthcare,Isolation Gowns,sms fabric,Black,XL,100,19.39,N
+70,HE-ISO-10,Isolation Gowns - sms fabric Variant 10,Healthcare,Isolation Gowns,sms fabric,White,M,200,28.16,N
+71,HE-ISO-11,Isolation Gowns - sms fabric Variant 11,Healthcare,Isolation Gowns,sms fabric,Black,L,100,13.99,N
+72,HE-ISO-12,Isolation Gowns - sms fabric Variant 12,Healthcare,Isolation Gowns,sms fabric,Black,S,200,11.47,N
+73,HE-ISO-13,Isolation Gowns - sms fabric Variant 13,Healthcare,Isolation Gowns,sms fabric,Blue,XL,500,40.32,N
+74,HE-ISO-14,Isolation Gowns - polypropylene Variant 14,Healthcare,Isolation Gowns,polypropylene,White,M,100,16.08,N
+75,HE-ISO-15,Isolation Gowns - polypropylene Variant 15,Healthcare,Isolation Gowns,polypropylene,Green,L,100,32.04,N
+76,FO-FOO-1,Food Service Gloves - vinyl Variant 1,Food Service,Food Service Gloves,vinyl,White,XL,200,26.09,N
+77,FO-FOO-2,Food Service Gloves - vinyl Variant 2,Food Service,Food Service Gloves,vinyl,Transparent,M,100,23.57,N
+78,FO-FOO-3,Food Service Gloves - polyethylene Variant 3,Food Service,Food Service Gloves,polyethylene,Blue,M,500,25.32,N
+79,FO-FOO-4,Food Service Gloves - polyethylene Variant 4,Food Service,Food Service Gloves,polyethylene,Black,S,500,18.37,N
+80,FO-FOO-5,Food Service Gloves - polyethylene Variant 5,Food Service,Food Service Gloves,polyethylene,Green,XL,500,17.07,N
+81,FO-FOO-6,Food Service Gloves - polyethylene Variant 6,Food Service,Food Service Gloves,polyethylene,White,M,50,15.1,N
+82,FO-FOO-7,Food Service Gloves - polyethylene Variant 7,Food Service,Food Service Gloves,polyethylene,White,M,200,18.62,N
+83,FO-FOO-8,Food Service Gloves - polyethylene Variant 8,Food Service,Food Service Gloves,polyethylene,White,S,500,28.18,N
+84,FO-FOO-9,Food Service Gloves - vinyl Variant 9,Food Service,Food Service Gloves,vinyl,Green,XL,200,20.84,N
+85,FO-FOO-10,Food Service Gloves - polyethylene Variant 10,Food Service,Food Service Gloves,polyethylene,Green,S,200,6.06,N
+86,FO-FOO-11,Food Service Gloves - polyethylene Variant 11,Food Service,Food Service Gloves,polyethylene,Transparent,M,100,11.96,N
+87,FO-FOO-12,Food Service Gloves - polyethylene Variant 12,Food Service,Food Service Gloves,polyethylene,Blue,L,500,22.16,N
+88,FO-FOO-13,Food Service Gloves - polyethylene Variant 13,Food Service,Food Service Gloves,polyethylene,Blue,M,500,27.42,N
+89,FO-FOO-14,Food Service Gloves - polyethylene Variant 14,Food Service,Food Service Gloves,polyethylene,Transparent,L,50,13.07,N
+90,FO-FOO-15,Food Service Gloves - polyethylene Variant 15,Food Service,Food Service Gloves,polyethylene,Transparent,XL,50,9.79,N
+91,FO-CUT-1,Cutlery Kits - plastic Variant 1,Food Service,Cutlery Kits,plastic,Green,S,500,12.7,N
+92,FO-CUT-2,Cutlery Kits - plastic Variant 2,Food Service,Cutlery Kits,plastic,White,XL,500,27.54,N
+93,FO-CUT-3,Cutlery Kits - plastic Variant 3,Food Service,Cutlery Kits,plastic,Blue,L,500,25.31,N
+94,FO-CUT-4,Cutlery Kits - plastic Variant 4,Food Service,Cutlery Kits,plastic,White,M,100,11.86,N
+95,FO-CUT-5,Cutlery Kits - plastic Variant 5,Food Service,Cutlery Kits,plastic,White,M,200,7.94,N
+96,FO-CUT-6,Cutlery Kits - plastic Variant 6,Food Service,Cutlery Kits,plastic,Black,XL,500,23.35,N
+97,FO-CUT-7,Cutlery Kits - plastic Variant 7,Food Service,Cutlery Kits,plastic,Green,L,200,12.96,N
+98,FO-CUT-8,Cutlery Kits - plastic Variant 8,Food Service,Cutlery Kits,plastic,Transparent,S,200,17.88,N
+99,FO-CUT-9,Cutlery Kits - plastic Variant 9,Food Service,Cutlery Kits,plastic,Blue,M,200,7.29,N
+100,FO-CUT-10,Cutlery Kits - plastic Variant 10,Food Service,Cutlery Kits,plastic,White,XL,50,8.26,N
+101,FO-CUT-11,Cutlery Kits - compostable Variant 11,Food Service,Cutlery Kits,compostable,Blue,L,200,27.87,N
+102,FO-CUT-12,Cutlery Kits - plastic Variant 12,Food Service,Cutlery Kits,plastic,Blue,M,50,14.7,N
+103,FO-CUT-13,Cutlery Kits - plastic Variant 13,Food Service,Cutlery Kits,plastic,Transparent,L,500,24.87,N
+104,FO-CUT-14,Cutlery Kits - compostable Variant 14,Food Service,Cutlery Kits,compostable,White,L,200,15.78,N
+105,FO-CUT-15,Cutlery Kits - plastic Variant 15,Food Service,Cutlery Kits,plastic,Blue,M,50,11.4,N
+106,FO-FOI-1,Foil Containers - aluminum Variant 1,Food Service,Foil Containers,aluminum,Green,S,500,26.97,N
+107,FO-FOI-2,Foil Containers - aluminum Variant 2,Food Service,Foil Containers,aluminum,Green,M,100,7.56,N
+108,FO-FOI-3,Foil Containers - aluminum Variant 3,Food Service,Foil Containers,aluminum,White,XL,100,9.48,N
+109,FO-FOI-4,Foil Containers - aluminum Variant 4,Food Service,Foil Containers,aluminum,Transparent,M,200,25.97,N
+110,FO-FOI-5,Foil Containers - aluminum Variant 5,Food Service,Foil Containers,aluminum,White,S,100,29.99,N
+111,FO-FOI-6,Foil Containers - aluminum Variant 6,Food Service,Foil Containers,aluminum,Green,M,50,13.59,N
+112,FO-FOI-7,Foil Containers - aluminum Variant 7,Food Service,Foil Containers,aluminum,Green,XL,200,8.21,N
+113,FO-FOI-8,Foil Containers - aluminum Variant 8,Food Service,Foil Containers,aluminum,Blue,XL,200,27.01,N
+114,FO-FOI-9,Foil Containers - aluminum Variant 9,Food Service,Foil Containers,aluminum,Black,S,50,28.1,N
+115,FO-FOI-10,Foil Containers - aluminum Variant 10,Food Service,Foil Containers,aluminum,White,S,50,10.21,N
+116,FO-FOI-11,Foil Containers - aluminum Variant 11,Food Service,Foil Containers,aluminum,Green,M,100,15.84,N
+117,FO-FOI-12,Foil Containers - aluminum Variant 12,Food Service,Foil Containers,aluminum,White,S,100,21.84,N
+118,FO-FOI-13,Foil Containers - aluminum Variant 13,Food Service,Foil Containers,aluminum,White,L,100,12.41,N
+119,FO-FOI-14,Foil Containers - aluminum Variant 14,Food Service,Foil Containers,aluminum,Black,L,500,9.12,N
+120,FO-FOI-15,Foil Containers - aluminum Variant 15,Food Service,Foil Containers,aluminum,Blue,XL,200,29.8,N
+121,FO-POR-1,Portion Cups - paper Variant 1,Food Service,Portion Cups,paper,Blue,L,50,10.37,N
+122,FO-POR-2,Portion Cups - plastic Variant 2,Food Service,Portion Cups,plastic,Transparent,S,100,28.37,N
+123,FO-POR-3,Portion Cups - paper Variant 3,Food Service,Portion Cups,paper,White,S,500,20.38,N
+124,FO-POR-4,Portion Cups - paper Variant 4,Food Service,Portion Cups,paper,Green,L,50,5.2,N
+125,FO-POR-5,Portion Cups - paper Variant 5,Food Service,Portion Cups,paper,Blue,XL,100,19.67,N
+126,FO-POR-6,Portion Cups - paper Variant 6,Food Service,Portion Cups,paper,White,S,50,23.34,N
+127,FO-POR-7,Portion Cups - paper Variant 7,Food Service,Portion Cups,paper,Transparent,S,100,22.09,N
+128,FO-POR-8,Portion Cups - plastic Variant 8,Food Service,Portion Cups,plastic,Black,M,50,11.95,N
+129,FO-POR-9,Portion Cups - plastic Variant 9,Food Service,Portion Cups,plastic,Green,M,200,21.82,N
+130,FO-POR-10,Portion Cups - paper Variant 10,Food Service,Portion Cups,paper,Transparent,L,500,8.54,N
+131,FO-POR-11,Portion Cups - paper Variant 11,Food Service,Portion Cups,paper,Green,L,50,11.45,N
+132,FO-POR-12,Portion Cups - paper Variant 12,Food Service,Portion Cups,paper,Green,XL,500,25.05,N
+133,FO-POR-13,Portion Cups - paper Variant 13,Food Service,Portion Cups,paper,Black,XL,500,23.65,N
+134,FO-POR-14,Portion Cups - plastic Variant 14,Food Service,Portion Cups,plastic,Green,S,500,8.5,N
+135,FO-POR-15,Portion Cups - paper Variant 15,Food Service,Portion Cups,paper,Green,S,200,25.04,N
+136,FO-PAP-1,Paper Plates - paper Variant 1,Food Service,Paper Plates,paper,White,L,500,12.1,N
+137,FO-PAP-2,Paper Plates - paper Variant 2,Food Service,Paper Plates,paper,Black,L,50,12.09,N
+138,FO-PAP-3,Paper Plates - paper Variant 3,Food Service,Paper Plates,paper,White,XL,500,10.59,N
+139,FO-PAP-4,Paper Plates - paper Variant 4,Food Service,Paper Plates,paper,Transparent,M,100,9.21,N
+140,FO-PAP-5,Paper Plates - paper Variant 5,Food Service,Paper Plates,paper,Transparent,M,100,24.61,N
+141,FO-PAP-6,Paper Plates - paper Variant 6,Food Service,Paper Plates,paper,Green,S,500,15.69,N
+142,FO-PAP-7,Paper Plates - paper Variant 7,Food Service,Paper Plates,paper,White,L,500,23.06,N
+143,FO-PAP-8,Paper Plates - paper Variant 8,Food Service,Paper Plates,paper,Blue,S,200,20.07,N
+144,FO-PAP-9,Paper Plates - paper Variant 9,Food Service,Paper Plates,paper,Transparent,M,200,6.37,N
+145,FO-PAP-10,Paper Plates - paper Variant 10,Food Service,Paper Plates,paper,White,S,100,11.54,N
+146,FO-PAP-11,Paper Plates - paper Variant 11,Food Service,Paper Plates,paper,Transparent,XL,50,8.4,N
+147,FO-PAP-12,Paper Plates - paper Variant 12,Food Service,Paper Plates,paper,Blue,L,100,24.78,N
+148,FO-PAP-13,Paper Plates - paper Variant 13,Food Service,Paper Plates,paper,Black,XL,200,25.89,N
+149,FO-PAP-14,Paper Plates - paper Variant 14,Food Service,Paper Plates,paper,Green,L,500,6.29,N
+150,FO-PAP-15,Paper Plates - paper Variant 15,Food Service,Paper Plates,paper,Green,L,200,17.02,N
+151,FO-NAP-1,Napkins - paper Variant 1,Food Service,Napkins,paper,Green,S,100,14.84,N
+152,FO-NAP-2,Napkins - paper Variant 2,Food Service,Napkins,paper,Green,L,200,28.76,N
+153,FO-NAP-3,Napkins - paper Variant 3,Food Service,Napkins,paper,Blue,L,200,8.88,N
+154,FO-NAP-4,Napkins - paper Variant 4,Food Service,Napkins,paper,Green,M,50,21.38,N
+155,FO-NAP-5,Napkins - paper Variant 5,Food Service,Napkins,paper,Green,XL,500,7.79,N
+156,FO-NAP-6,Napkins - paper Variant 6,Food Service,Napkins,paper,White,M,100,5.06,N
+157,FO-NAP-7,Napkins - paper Variant 7,Food Service,Napkins,paper,White,S,200,12.7,N
+158,FO-NAP-8,Napkins - paper Variant 8,Food Service,Napkins,paper,Black,L,100,17.23,N
+159,FO-NAP-9,Napkins - paper Variant 9,Food Service,Napkins,paper,White,XL,100,21.11,N
+160,FO-NAP-10,Napkins - paper Variant 10,Food Service,Napkins,paper,White,S,50,10.73,N
+161,FO-NAP-11,Napkins - paper Variant 11,Food Service,Napkins,paper,Blue,S,200,17.9,N
+162,FO-NAP-12,Napkins - paper Variant 12,Food Service,Napkins,paper,Transparent,M,50,21.88,N
+163,FO-NAP-13,Napkins - paper Variant 13,Food Service,Napkins,paper,Green,M,500,5.45,N
+164,FO-NAP-14,Napkins - paper Variant 14,Food Service,Napkins,paper,Transparent,L,200,28.38,N
+165,FO-NAP-15,Napkins - paper Variant 15,Food Service,Napkins,paper,Green,S,200,6.51,N
+166,IN-GEN-1,General Purpose Gloves - nitrile Variant 1,Industrial,General Purpose Gloves,nitrile,White,XL,200,35.73,N
+167,IN-GEN-2,General Purpose Gloves - vinyl Variant 2,Industrial,General Purpose Gloves,vinyl,Black,S,50,35.11,N
+168,IN-GEN-3,General Purpose Gloves - nitrile Variant 3,Industrial,General Purpose Gloves,nitrile,Black,S,500,29.87,N
+169,IN-GEN-4,General Purpose Gloves - vinyl Variant 4,Industrial,General Purpose Gloves,vinyl,White,M,100,22.34,N
+170,IN-GEN-5,General Purpose Gloves - nitrile Variant 5,Industrial,General Purpose Gloves,nitrile,Blue,S,50,40.24,N
+171,IN-GEN-6,General Purpose Gloves - nitrile Variant 6,Industrial,General Purpose Gloves,nitrile,Transparent,S,50,52.1,N
+172,IN-GEN-7,General Purpose Gloves - nitrile Variant 7,Industrial,General Purpose Gloves,nitrile,Blue,L,200,33.82,N
+173,IN-GEN-8,General Purpose Gloves - vinyl Variant 8,Industrial,General Purpose Gloves,vinyl,Transparent,M,100,58.45,N
+174,IN-GEN-9,General Purpose Gloves - vinyl Variant 9,Industrial,General Purpose Gloves,vinyl,Black,L,500,25.62,N
+175,IN-GEN-10,General Purpose Gloves - vinyl Variant 10,Industrial,General Purpose Gloves,vinyl,Black,M,200,29.99,N
+176,IN-GEN-11,General Purpose Gloves - nitrile Variant 11,Industrial,General Purpose Gloves,nitrile,Black,S,50,67.71,N
+177,IN-GEN-12,General Purpose Gloves - vinyl Variant 12,Industrial,General Purpose Gloves,vinyl,White,M,50,62.3,N
+178,IN-GEN-13,General Purpose Gloves - vinyl Variant 13,Industrial,General Purpose Gloves,vinyl,Blue,XL,500,24.99,N
+179,IN-GEN-14,General Purpose Gloves - nitrile Variant 14,Industrial,General Purpose Gloves,nitrile,Blue,M,50,47.78,N
+180,IN-GEN-15,General Purpose Gloves - nitrile Variant 15,Industrial,General Purpose Gloves,nitrile,Blue,S,50,22.29,N
+181,IN-NIT-1,Nitrile Heavy Duty Gloves - nitrile Variant 1,Industrial,Nitrile Heavy Duty Gloves,nitrile,White,S,200,66.39,N
+182,IN-NIT-2,Nitrile Heavy Duty Gloves - nitrile Variant 2,Industrial,Nitrile Heavy Duty Gloves,nitrile,Transparent,L,500,64.24,N
+183,IN-NIT-3,Nitrile Heavy Duty Gloves - nitrile Variant 3,Industrial,Nitrile Heavy Duty Gloves,nitrile,Blue,L,500,49.93,N
+184,IN-NIT-4,Nitrile Heavy Duty Gloves - nitrile Variant 4,Industrial,Nitrile Heavy Duty Gloves,nitrile,Black,M,500,68.42,N
+185,IN-NIT-5,Nitrile Heavy Duty Gloves - nitrile Variant 5,Industrial,Nitrile Heavy Duty Gloves,nitrile,Green,L,100,58.81,N
+186,IN-NIT-6,Nitrile Heavy Duty Gloves - nitrile Variant 6,Industrial,Nitrile Heavy Duty Gloves,nitrile,Blue,S,50,45.75,N
+187,IN-NIT-7,Nitrile Heavy Duty Gloves - nitrile Variant 7,Industrial,Nitrile Heavy Duty Gloves,nitrile,White,XL,50,42.56,N
+188,IN-NIT-8,Nitrile Heavy Duty Gloves - nitrile Variant 8,Industrial,Nitrile Heavy Duty Gloves,nitrile,Black,S,100,56.4,N
+189,IN-NIT-9,Nitrile Heavy Duty Gloves - nitrile Variant 9,Industrial,Nitrile Heavy Duty Gloves,nitrile,Transparent,XL,100,49.21,N
+190,IN-NIT-10,Nitrile Heavy Duty Gloves - nitrile Variant 10,Industrial,Nitrile Heavy Duty Gloves,nitrile,Black,XL,200,25.44,N
+191,IN-NIT-11,Nitrile Heavy Duty Gloves - nitrile Variant 11,Industrial,Nitrile Heavy Duty Gloves,nitrile,Black,L,500,37.36,N
+192,IN-NIT-12,Nitrile Heavy Duty Gloves - nitrile Variant 12,Industrial,Nitrile Heavy Duty Gloves,nitrile,Transparent,S,500,46.03,N
+193,IN-NIT-13,Nitrile Heavy Duty Gloves - nitrile Variant 13,Industrial,Nitrile Heavy Duty Gloves,nitrile,Green,S,50,25.85,N
+194,IN-NIT-14,Nitrile Heavy Duty Gloves - nitrile Variant 14,Industrial,Nitrile Heavy Duty Gloves,nitrile,Green,XL,500,65.24,N
+195,IN-NIT-15,Nitrile Heavy Duty Gloves - nitrile Variant 15,Industrial,Nitrile Heavy Duty Gloves,nitrile,White,L,200,28.43,N
+196,IN-DIS-1,Disposable Apparel - polypropylene Variant 1,Industrial,Disposable Apparel,polypropylene,Blue,L,500,49.21,N
+197,IN-DIS-2,Disposable Apparel - polypropylene Variant 2,Industrial,Disposable Apparel,polypropylene,Black,M,200,24.82,N
+198,IN-DIS-3,Disposable Apparel - polypropylene Variant 3,Industrial,Disposable Apparel,polypropylene,Transparent,S,200,24.0,N
+199,IN-DIS-4,Disposable Apparel - polypropylene Variant 4,Industrial,Disposable Apparel,polypropylene,Transparent,M,100,38.54,N
+200,IN-DIS-5,Disposable Apparel - polypropylene Variant 5,Industrial,Disposable Apparel,polypropylene,Black,L,500,58.37,N
+201,IN-DIS-6,Disposable Apparel - polypropylene Variant 6,Industrial,Disposable Apparel,polypropylene,Green,XL,50,23.49,N
+202,IN-DIS-7,Disposable Apparel - polypropylene Variant 7,Industrial,Disposable Apparel,polypropylene,White,L,200,28.04,N
+203,IN-DIS-8,Disposable Apparel - polypropylene Variant 8,Industrial,Disposable Apparel,polypropylene,White,XL,500,45.87,N
+204,IN-DIS-9,Disposable Apparel - polypropylene Variant 9,Industrial,Disposable Apparel,polypropylene,Green,M,200,26.69,N
+205,IN-DIS-10,Disposable Apparel - polypropylene Variant 10,Industrial,Disposable Apparel,polypropylene,White,XL,200,48.25,N
+206,IN-DIS-11,Disposable Apparel - polypropylene Variant 11,Industrial,Disposable Apparel,polypropylene,Green,S,100,24.36,N
+207,IN-DIS-12,Disposable Apparel - polypropylene Variant 12,Industrial,Disposable Apparel,polypropylene,Transparent,XL,50,39.49,N
+208,IN-DIS-13,Disposable Apparel - polypropylene Variant 13,Industrial,Disposable Apparel,polypropylene,Black,S,100,26.68,N
+209,IN-DIS-14,Disposable Apparel - polypropylene Variant 14,Industrial,Disposable Apparel,polypropylene,Black,M,500,67.03,N
+210,IN-DIS-15,Disposable Apparel - polypropylene Variant 15,Industrial,Disposable Apparel,polypropylene,Blue,L,200,41.03,N
+211,IN-CHE-1,Chemical Resistant Gloves - neoprene Variant 1,Industrial,Chemical Resistant Gloves,neoprene,Black,XL,200,55.6,N
+212,IN-CHE-2,Chemical Resistant Gloves - neoprene Variant 2,Industrial,Chemical Resistant Gloves,neoprene,Black,L,200,50.87,N
+213,IN-CHE-3,Chemical Resistant Gloves - neoprene Variant 3,Industrial,Chemical Resistant Gloves,neoprene,Transparent,S,100,69.9,N
+214,IN-CHE-4,Chemical Resistant Gloves - neoprene Variant 4,Industrial,Chemical Resistant Gloves,neoprene,White,XL,50,41.83,N
+215,IN-CHE-5,Chemical Resistant Gloves - neoprene Variant 5,Industrial,Chemical Resistant Gloves,neoprene,Transparent,L,100,20.14,N
+216,IN-CHE-6,Chemical Resistant Gloves - neoprene Variant 6,Industrial,Chemical Resistant Gloves,neoprene,Green,XL,100,42.91,N
+217,IN-CHE-7,Chemical Resistant Gloves - neoprene Variant 7,Industrial,Chemical Resistant Gloves,neoprene,Transparent,M,50,45.89,N
+218,IN-CHE-8,Chemical Resistant Gloves - neoprene Variant 8,Industrial,Chemical Resistant Gloves,neoprene,Green,M,50,45.81,N
+219,IN-CHE-9,Chemical Resistant Gloves - neoprene Variant 9,Industrial,Chemical Resistant Gloves,neoprene,Green,XL,100,32.07,N
+220,IN-CHE-10,Chemical Resistant Gloves - neoprene Variant 10,Industrial,Chemical Resistant Gloves,neoprene,Black,S,50,38.26,N
+221,IN-CHE-11,Chemical Resistant Gloves - neoprene Variant 11,Industrial,Chemical Resistant Gloves,neoprene,Transparent,L,200,30.73,N
+222,IN-CHE-12,Chemical Resistant Gloves - neoprene Variant 12,Industrial,Chemical Resistant Gloves,neoprene,Transparent,M,100,27.37,N
+223,IN-CHE-13,Chemical Resistant Gloves - neoprene Variant 13,Industrial,Chemical Resistant Gloves,neoprene,Transparent,XL,200,32.48,N
+224,IN-CHE-14,Chemical Resistant Gloves - neoprene Variant 14,Industrial,Chemical Resistant Gloves,neoprene,Transparent,M,200,54.46,N
+225,IN-CHE-15,Chemical Resistant Gloves - neoprene Variant 15,Industrial,Chemical Resistant Gloves,neoprene,Blue,XL,50,35.65,N
+226,SU-COM-1,Compostable Forks - cornstarch bioplastic Variant 1,Sustainable,Compostable Forks,cornstarch bioplastic,Black,M,100,15.45,Y
+227,SU-COM-2,Compostable Forks - cornstarch bioplastic Variant 2,Sustainable,Compostable Forks,cornstarch bioplastic,White,L,200,32.62,Y
+228,SU-COM-3,Compostable Forks - cornstarch bioplastic Variant 3,Sustainable,Compostable Forks,cornstarch bioplastic,White,S,200,22.3,Y
+229,SU-COM-4,Compostable Forks - cornstarch bioplastic Variant 4,Sustainable,Compostable Forks,cornstarch bioplastic,Transparent,XL,100,43.26,Y
+230,SU-COM-5,Compostable Forks - cornstarch bioplastic Variant 5,Sustainable,Compostable Forks,cornstarch bioplastic,Green,XL,200,22.05,Y
+231,SU-COM-6,Compostable Forks - cornstarch bioplastic Variant 6,Sustainable,Compostable Forks,cornstarch bioplastic,White,XL,50,33.32,Y
+232,SU-COM-7,Compostable Forks - cornstarch bioplastic Variant 7,Sustainable,Compostable Forks,cornstarch bioplastic,Black,S,50,31.33,Y
+233,SU-COM-8,Compostable Forks - cornstarch bioplastic Variant 8,Sustainable,Compostable Forks,cornstarch bioplastic,Blue,XL,50,38.42,Y
+234,SU-COM-9,Compostable Forks - cornstarch bioplastic Variant 9,Sustainable,Compostable Forks,cornstarch bioplastic,Green,M,500,23.88,Y
+235,SU-COM-10,Compostable Forks - cornstarch bioplastic Variant 10,Sustainable,Compostable Forks,cornstarch bioplastic,Blue,L,500,31.41,Y
+236,SU-COM-11,Compostable Forks - cornstarch bioplastic Variant 11,Sustainable,Compostable Forks,cornstarch bioplastic,Blue,XL,200,22.15,Y
+237,SU-COM-12,Compostable Forks - cornstarch bioplastic Variant 12,Sustainable,Compostable Forks,cornstarch bioplastic,White,S,200,41.0,Y
+238,SU-COM-13,Compostable Forks - cornstarch bioplastic Variant 13,Sustainable,Compostable Forks,cornstarch bioplastic,Transparent,L,200,22.88,Y
+239,SU-COM-14,Compostable Forks - cornstarch bioplastic Variant 14,Sustainable,Compostable Forks,cornstarch bioplastic,Black,S,200,38.51,Y
+240,SU-COM-15,Compostable Forks - cornstarch bioplastic Variant 15,Sustainable,Compostable Forks,cornstarch bioplastic,White,M,100,19.75,Y
+241,SU-COM-1,Compostable Spoons - cornstarch bioplastic Variant 1,Sustainable,Compostable Spoons,cornstarch bioplastic,Blue,S,500,42.44,Y
+242,SU-COM-2,Compostable Spoons - cornstarch bioplastic Variant 2,Sustainable,Compostable Spoons,cornstarch bioplastic,Transparent,L,50,41.39,Y
+243,SU-COM-3,Compostable Spoons - cornstarch bioplastic Variant 3,Sustainable,Compostable Spoons,cornstarch bioplastic,White,XL,500,31.33,Y
+244,SU-COM-4,Compostable Spoons - cornstarch bioplastic Variant 4,Sustainable,Compostable Spoons,cornstarch bioplastic,Transparent,XL,200,22.15,Y
+245,SU-COM-5,Compostable Spoons - cornstarch bioplastic Variant 5,Sustainable,Compostable Spoons,cornstarch bioplastic,Black,S,100,21.49,Y
+246,SU-COM-6,Compostable Spoons - cornstarch bioplastic Variant 6,Sustainable,Compostable Spoons,cornstarch bioplastic,White,S,500,34.02,Y
+247,SU-COM-7,Compostable Spoons - cornstarch bioplastic Variant 7,Sustainable,Compostable Spoons,cornstarch bioplastic,Blue,XL,200,26.75,Y
+248,SU-COM-8,Compostable Spoons - cornstarch bioplastic Variant 8,Sustainable,Compostable Spoons,cornstarch bioplastic,Transparent,M,200,29.59,Y
+249,SU-COM-9,Compostable Spoons - cornstarch bioplastic Variant 9,Sustainable,Compostable Spoons,cornstarch bioplastic,Blue,L,50,35.5,Y
+250,SU-COM-10,Compostable Spoons - cornstarch bioplastic Variant 10,Sustainable,Compostable Spoons,cornstarch bioplastic,Transparent,M,500,21.46,Y
+251,SU-COM-11,Compostable Spoons - cornstarch bioplastic Variant 11,Sustainable,Compostable Spoons,cornstarch bioplastic,Black,S,500,35.77,Y
+252,SU-COM-12,Compostable Spoons - cornstarch bioplastic Variant 12,Sustainable,Compostable Spoons,cornstarch bioplastic,Black,S,50,21.61,Y
+253,SU-COM-13,Compostable Spoons - cornstarch bioplastic Variant 13,Sustainable,Compostable Spoons,cornstarch bioplastic,Transparent,M,500,21.86,Y
+254,SU-COM-14,Compostable Spoons - cornstarch bioplastic Variant 14,Sustainable,Compostable Spoons,cornstarch bioplastic,Green,XL,50,44.75,Y
+255,SU-COM-15,Compostable Spoons - cornstarch bioplastic Variant 15,Sustainable,Compostable Spoons,cornstarch bioplastic,Black,XL,500,24.97,Y
+256,SU-COM-1,Compostable Containers - bioplastic Variant 1,Sustainable,Compostable Containers,bioplastic,Green,XL,500,19.54,Y
+257,SU-COM-2,Compostable Containers - bagasse Variant 2,Sustainable,Compostable Containers,bagasse,White,XL,50,16.5,Y
+258,SU-COM-3,Compostable Containers - bioplastic Variant 3,Sustainable,Compostable Containers,bioplastic,Transparent,XL,100,29.94,Y
+259,SU-COM-4,Compostable Containers - bioplastic Variant 4,Sustainable,Compostable Containers,bioplastic,White,XL,200,34.08,Y
+260,SU-COM-5,Compostable Containers - bioplastic Variant 5,Sustainable,Compostable Containers,bioplastic,Transparent,L,100,21.25,Y
+261,SU-COM-6,Compostable Containers - bioplastic Variant 6,Sustainable,Compostable Containers,bioplastic,Transparent,L,500,30.31,Y
+262,SU-COM-7,Compostable Containers - bioplastic Variant 7,Sustainable,Compostable Containers,bioplastic,White,M,500,43.13,Y
+263,SU-COM-8,Compostable Containers - bagasse Variant 8,Sustainable,Compostable Containers,bagasse,White,XL,50,29.35,Y
+264,SU-COM-9,Compostable Containers - bioplastic Variant 9,Sustainable,Compostable Containers,bioplastic,Transparent,L,500,25.92,Y
+265,SU-COM-10,Compostable Containers - bagasse Variant 10,Sustainable,Compostable Containers,bagasse,Transparent,M,100,32.13,Y
+266,SU-COM-11,Compostable Containers - bioplastic Variant 11,Sustainable,Compostable Containers,bioplastic,Green,L,200,21.52,Y
+267,SU-COM-12,Compostable Containers - bagasse Variant 12,Sustainable,Compostable Containers,bagasse,Black,M,50,41.73,Y
+268,SU-COM-13,Compostable Containers - bagasse Variant 13,Sustainable,Compostable Containers,bagasse,Blue,S,100,31.13,Y
+269,SU-COM-14,Compostable Containers - bagasse Variant 14,Sustainable,Compostable Containers,bagasse,Blue,S,200,24.35,Y
+270,SU-COM-15,Compostable Containers - bagasse Variant 15,Sustainable,Compostable Containers,bagasse,Blue,L,100,20.33,Y
+271,SU-PAP-1,Paper Napkins - recycled paper Variant 1,Sustainable,Paper Napkins,recycled paper,Green,M,500,39.2,Y
+272,SU-PAP-2,Paper Napkins - recycled paper Variant 2,Sustainable,Paper Napkins,recycled paper,Transparent,M,500,19.21,Y
+273,SU-PAP-3,Paper Napkins - recycled paper Variant 3,Sustainable,Paper Napkins,recycled paper,Black,L,200,25.03,Y
+274,SU-PAP-4,Paper Napkins - recycled paper Variant 4,Sustainable,Paper Napkins,recycled paper,Green,L,50,42.94,Y
+275,SU-PAP-5,Paper Napkins - recycled paper Variant 5,Sustainable,Paper Napkins,recycled paper,Black,L,200,22.19,Y
+276,SU-PAP-6,Paper Napkins - recycled paper Variant 6,Sustainable,Paper Napkins,recycled paper,Green,XL,100,24.76,Y
+277,SU-PAP-7,Paper Napkins - recycled paper Variant 7,Sustainable,Paper Napkins,recycled paper,Green,XL,500,29.25,Y
+278,SU-PAP-8,Paper Napkins - recycled paper Variant 8,Sustainable,Paper Napkins,recycled paper,Transparent,XL,100,41.32,Y
+279,SU-PAP-9,Paper Napkins - recycled paper Variant 9,Sustainable,Paper Napkins,recycled paper,White,S,500,18.43,Y
+280,SU-PAP-10,Paper Napkins - recycled paper Variant 10,Sustainable,Paper Napkins,recycled paper,Green,XL,500,23.23,Y
+281,SU-PAP-11,Paper Napkins - recycled paper Variant 11,Sustainable,Paper Napkins,recycled paper,Transparent,M,100,43.99,Y
+282,SU-PAP-12,Paper Napkins - recycled paper Variant 12,Sustainable,Paper Napkins,recycled paper,Blue,M,50,40.44,Y
+283,SU-PAP-13,Paper Napkins - recycled paper Variant 13,Sustainable,Paper Napkins,recycled paper,White,S,500,30.58,Y
+284,SU-PAP-14,Paper Napkins - recycled paper Variant 14,Sustainable,Paper Napkins,recycled paper,Green,XL,200,21.38,Y
+285,SU-PAP-15,Paper Napkins - recycled paper Variant 15,Sustainable,Paper Napkins,recycled paper,Black,XL,100,35.61,Y
+286,SU-BIO-1,Biodegradable Bags - starch blend Variant 1,Sustainable,Biodegradable Bags,starch blend,Black,XL,100,37.3,Y
+287,SU-BIO-2,Biodegradable Bags - starch blend Variant 2,Sustainable,Biodegradable Bags,starch blend,White,M,500,41.5,Y
+288,SU-BIO-3,Biodegradable Bags - starch blend Variant 3,Sustainable,Biodegradable Bags,starch blend,Blue,L,200,43.85,Y
+289,SU-BIO-4,Biodegradable Bags - starch blend Variant 4,Sustainable,Biodegradable Bags,starch blend,White,M,500,34.79,Y
+290,SU-BIO-5,Biodegradable Bags - starch blend Variant 5,Sustainable,Biodegradable Bags,starch blend,Transparent,S,500,23.56,Y
+291,SU-BIO-6,Biodegradable Bags - starch blend Variant 6,Sustainable,Biodegradable Bags,starch blend,Black,L,50,30.15,Y
+292,SU-BIO-7,Biodegradable Bags - starch blend Variant 7,Sustainable,Biodegradable Bags,starch blend,Black,XL,100,28.89,Y
+293,SU-BIO-8,Biodegradable Bags - starch blend Variant 8,Sustainable,Biodegradable Bags,starch blend,White,S,50,32.94,Y
+294,SU-BIO-9,Biodegradable Bags - starch blend Variant 9,Sustainable,Biodegradable Bags,starch blend,Black,S,200,31.85,Y
+295,SU-BIO-10,Biodegradable Bags - starch blend Variant 10,Sustainable,Biodegradable Bags,starch blend,White,XL,200,32.89,Y
+296,SU-BIO-11,Biodegradable Bags - starch blend Variant 11,Sustainable,Biodegradable Bags,starch blend,Black,M,200,18.32,Y
+297,SU-BIO-12,Biodegradable Bags - starch blend Variant 12,Sustainable,Biodegradable Bags,starch blend,Green,XL,200,20.42,Y
+298,SU-BIO-13,Biodegradable Bags - starch blend Variant 13,Sustainable,Biodegradable Bags,starch blend,Black,L,200,43.04,Y
+299,SU-BIO-14,Biodegradable Bags - starch blend Variant 14,Sustainable,Biodegradable Bags,starch blend,Green,L,500,31.13,Y
+300,SU-BIO-15,Biodegradable Bags - starch blend Variant 15,Sustainable,Biodegradable Bags,starch blend,Black,L,50,42.79,Y
