@@ -1,0 +1,17 @@
+daxwell-sales-etl-analytics/
+├── data/
+│   ├── raw/
+│   └── transformed/
+├── etl/
+│   └── glue_job_pyspark.py
+├── sql/
+│   ├── athena_queries.sql
+│   └── athena_ddl.sql
+├── powerbi/
+│   └── daxwell_sales_dashboard.pbix
+├── docs/
+│   ├── architecture_diagram.png
+│   └── data_model.png
+├── config/
+│   └── glue_crawler_config.md
+└── README.md
