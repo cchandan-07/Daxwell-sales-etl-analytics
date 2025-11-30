@@ -1,8 +1,4 @@
-/*
-  Project: Daxwell Sales ETL & Analytics
-  Type   : Data Engineering (AWS + Power BI)
-  Author : Chandan Kumar
-*/
+
 
 # Daxwell Sales ETL & Analytics
 
